@@ -1,5 +1,5 @@
-# FINAL YEAR PRESENTATION
-## SMART ROBO LAWNMOWER
+# Final Year Presentation
+## Smart Robo Lawnmower
 
 The usage of lawn mower has always been an essential part of grasslands. Especially, in Pakistan, gardeners are still using the cliché techniques to cut grass which includes a lot of human and is 
 tedious.  
