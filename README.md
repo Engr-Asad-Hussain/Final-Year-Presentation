@@ -1,4 +1,3 @@
-# Final Year Presentation
 ## Smart Robo Lawnmower
 
 The usage of lawn mower has always been an essential part of grasslands. Especially, in Pakistan, gardeners are still using the cliché techniques to cut grass which includes a lot of human and is 
@@ -20,22 +19,12 @@ Smart lawn mower is designed to reduce human effort by controlling through pair 
 
 
 ### PROJECT LIMITATIONS
-Lawn mowers have always been a chandelier in the agricultural industries as well as for 
-domestic purposes. They are actually grass cutters to cut the grass which is grown 
-occasionally in the fields or in the gardens. Now a days, growing grass has become a part of 
-interior decoration for schools, colleges, universities and even different offices.  
-From the early 1820s lawn mowers have faced different limitations according to the era i.e. 
-the conventional lawn mower requires a man power and “power” here is literal as it needs 
-a powerful push to make the conventional lawn mower move on the field and cut the grass.  
-In order to overcome this problem, IoT and Rf transceiver is introduced in this project but it 
-too has its own limitations which are listed as follows: 
-• Software reliability. 
-• Reliability of electronic components. 
-• Battery consumption. 
-• Need of an external man power i.e. it is not autonomous. 
-• Need of a wireless communication i.e. GPRS or Wi-Fi for IoT to work.  
-• Rf has a certain range. 
-• Heavy weight. 
-• Cost (buy, support, repair and protection) of independent vehicle and additionally add 
-up to cost of foundation spending to empower self-ruling vehicles and the cost sharing 
-model.
+Lawn mowers have always been a chandelier in the agricultural industries as well as for domestic purposes. They are actually grass cutters to cut the grass which is grown occasionally in the fields or in the gardens. Now a days, growing grass has become a part of interior decoration for schools, colleges, universities and even different offices. From the early 1820s lawn mowers have faced different limitations according to the era i.e. the conventional lawn mower requires a man power and “power” here is literal as it needs a powerful push to make the conventional lawn mower move on the field and cut the grass.  In order to overcome this problem, IoT and Rf transceiver is introduced in this project but it too has its own limitations which are listed as follows: 
+1. Software reliability. 
+2. Reliability of electronic components. 
+3. Battery consumption. 
+4. Need of an external man power i.e. it is not autonomous. 
+5. Need of a wireless communication i.e. GPRS or Wi-Fi for IoT to work.  
+6. Rf has a certain range. 
+7. Heavy weight. 
+8. Cost (buy, support, repair and protection) of independent vehicle and additionally add up to cost of foundation spending to empower self-ruling vehicles and the cost sharing  model.
